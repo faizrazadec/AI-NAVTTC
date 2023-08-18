@@ -1,0 +1,11 @@
+[W 08:57:12.902 NotebookApp] Loading JupyterLab as a classic notebook (v6) extension.
+[W 2023-07-11 08:57:12.907 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 08:57:12.907 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-07-11 08:57:12.916 LabApp] JupyterLab extension loaded from C:\ProgramData\anaconda3\lib\site-packages\jupyterlab
+[I 2023-07-11 08:57:12.916 LabApp] JupyterLab application directory is C:\ProgramData\anaconda3\share\jupyter\lab
+[I 08:57:16.089 NotebookApp] Serving notebooks from local directory: C:\Users\faizr
+[I 08:57:16.089 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 08:57:16.090 NotebookApp] http://localhost:8888/?token=49c82ecac974c714b7ccb8ff7ffe74d899959a18d23b9665
+[I 08:57:16.090 NotebookApp]  or http://127.0.0.1:8888/?token=49c82ecac974c714b7ccb8ff7ffe74d899959a18d23b9665
+[I 08:57:16.090 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:57:16.177 NotebookApp]
